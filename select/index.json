@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ラピスラズリ",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-14T05:35:29.911578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラピスラズリ",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/01_ラピスラズリ_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラピスラズリ",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/02_ラピスラズリ_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラピスラズリ",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/03_ラピスラズリ_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラピスラズリ",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/04_ラピスラズリ_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラピスラズリ(編曲賞)",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/05_ラピスラズリ(編曲賞)_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラピスラズリ (Eir Aoi) (Arslan Senki)",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/06_ラピスラズリ_(Eir_Aoi)_(Arslan_Senki)_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラピスラズリ",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/07_ラピスラズリ_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ラピスラズリ",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/08_ラピスラズリ_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラピスラズリ - Lapislazuli",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/09_ラピスラズリ_-_Lapislazuli_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラピスラズリ (TV动画《阿尔斯兰战记》片尾曲)",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/10_ラピスラズリ_(TV动画《阿尔斯兰战记》片尾曲)_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ラピスラズリ -RE BLUE LIVE ver-",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/11_ラピスラズリ_-RE_BLUE_LIVE_ver-_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ラピスラズリ -RE BLUE LIVE ver.-",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/12_ラピスラズリ_-RE_BLUE_LIVE_ver.-_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lapis Lazuli (ラピスラズリ)",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/13_Lapis_Lazuli_(ラピスラズリ)_Eir_Aoi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラピスラズリ",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_ラピスラズリ_MIMI.txt"
+    }
+  ]
+}
